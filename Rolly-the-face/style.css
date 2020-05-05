@@ -1,0 +1,49 @@
+* {
+  max-width: 1000px;
+  
+}
+
+.face {
+  height: 100vh;
+  width: calc(100% - 100px);
+  background-color: yellow;
+  border-radius: 50%;
+  border: 1px solid;
+  position: fixed;
+  top: 20vh;
+  left: 40%;
+}
+
+.eye1 {
+   height: 7vh;
+  width: 7vh;
+  background-color: black;
+  border-radius: 50%;
+  border: 1px solid;
+  position: fixed;
+  top: 30vh;
+  left: 45%;
+}
+
+.eye2 {
+   height: 7vh;
+  width: 7vh;
+  background-color: black;
+  border-radius: 50%;
+  border: 1px solid;
+  position: fixed;
+  top: 30vh;
+  left: 45%;
+  margin-left: 10%;
+}
+
+.mouth {
+  height: 22vh;
+  width: 18vh;
+  background-color: red;
+  border-radius: 50%;
+  border: 1px solid;
+  position: fixed;
+  top: 40vh;
+  left: 49vw;
+}
