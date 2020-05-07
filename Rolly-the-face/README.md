@@ -1,4 +1,6 @@
-# Rolly's face
-This gif is the created before calc is used in css file.
+Phase 1
+## ![](https://i.imgur.com/GvbDfub.gif)
 
-![](face.gif)
+Phase 2
+## ![](https://i.imgur.com/7gSM5LU.gif)
+
