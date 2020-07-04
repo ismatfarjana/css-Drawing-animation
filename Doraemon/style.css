@@ -1,4 +1,14 @@
-
+body {
+  background-color: #9EEF7D;
+  margin: 0;
+}
+.sky {
+  height: 25vh;
+  width: 100%;
+  border-bottom: 1px solid black;
+  background-color: #9EEFFF;
+  margin: 0;
+}
 
 .head {
   border-radius: 50%;
@@ -6,7 +16,7 @@
   width: 15vw;
   height: 14vw;
   position: absolute;
-  top: 5vw;
+  top: 15vw;
   left: 45vw;
   
 }
