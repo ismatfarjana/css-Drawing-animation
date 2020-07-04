@@ -1,3 +1,5 @@
+
+
 .head {
   border-radius: 50%;
   background-color: #199bb5;
@@ -49,6 +51,88 @@
   position: absolute;
   top: 0vw;
   left: 0vw;
+}
+
+.right_hand {
+  height: 3.5vw;
+  width: 4.5vw;
+  background-color: #199bb5;
+  position: absolute;
+  top: -2.9vw;
+  left: -4vw;
+  transform:rotate(20deg);
+}
+
+.left_hand {
+  height: 3.5vw;
+  width: 4vw;
+  background-color: #199bb5;
+  position: absolute;
+  top: -1.4vw;
+  left: 8vw;
+  transform:rotate(200deg);
+}
+
+.right_pulm {
+   height: 4vw;
+  width: 4vw;
+  background-color: white;
+  border-radius: 49%;
+  position: absolute;
+  top: -0.5vw;
+  left: -3vw;
+  border: 0.5px solid black;
+}
+.left_pulm {
+   height: 4vw;
+  width: 4vw;
+  background-color: white;
+  border-radius: 49%;
+  position: absolute;
+  top: -0.5vw;
+  left: -3vw;
+  border: 0.5px solid black;
+}
+
+.right_leg {
+  height: 2.2vw;
+  width: 4.1vw;
+  background-color: #199bb5;
+  position: absolute;
+  top: 21.6vw;
+  left: 2.6vw;
+  
+}
+
+.left_leg {
+  height: 2.2vw;
+  width: 4.1vw;
+  background-color: #199bb5;
+  position: absolute;
+  top: 21.6vw;
+  left: 8.3vw;
+  
+}
+
+.right_foot {
+   height: 2vw;
+  width: 5vw;
+  background-color: white;
+  border-radius: 40%;
+  position: absolute;
+  top: 1vw;
+  left: -1vw;
+  border: 0.5px solid black;
+}
+.left_foot {
+   height: 2vw;
+  width: 5vw;
+  background-color: white;
+  border-radius: 40%;
+  position: absolute;
+  top: 1vw;
+  left: -0.4vw;
+  border: 0.5px solid black;
 }
 
 .neck {
@@ -126,7 +210,7 @@
   width: 1px;
   border-left: 1px solid black;
   position: absolute;
-  left: 6vw;
+  left: 6.2vw;
   top: 3vw;
 }
 
