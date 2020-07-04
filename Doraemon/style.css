@@ -1,0 +1,171 @@
+.head {
+  border-radius: 50%;
+  background-color: #199bb5;
+  width: 15vw;
+  height: 14vw;
+  position: absolute;
+  top: 5vw;
+  left: 45vw;
+  
+}
+.body {
+  border-radius: 10%;
+  background-color: #199bb5;
+  width: 10vw;
+  height: 9vw;
+  position: absolute;
+  top: 13vw;
+  left: 2.5vw;
+  
+}
+
+.tummy {
+  border-radius: 90%;
+  background-color: white;
+  width: 8vw;
+  height: 6vw;
+  position: absolute;
+  top: 2.3vw;
+  left: 1vw;
+  border: 0.5px solid black;
+}
+
+.tummy_pocket {
+  border-radius: 50%;
+  background-color: white;
+  width: 5vw;
+  height: 4.5vw;
+  position: absolute;
+  border: 0.5px solid black;
+  top: 0.6vw;
+  left: 1.4vw;
+}
+
+.tummy_pocket_margin {
+  background-color: white;
+  border-bottom: 0.5px solid black;
+  width: 5.1vw;
+  height: 1.5vw;
+  position: absolute;
+  top: 0vw;
+  left: 0vw;
+}
+
+.neck {
+   border-radius: 50%;
+  background-color: #199bb7;
+  width: 9vw;
+  height: 4vw;
+  position: absolute;
+  top: 10vw;
+  left: 3vw;
+  box-shadow: -0px 10px 0px -2px red;
+}
+
+.face {
+  height: 11vw;
+  width: 12vw;
+  background-color: white;
+  border-radius: 48%;
+  position: absolute;
+  top: -7vw;
+  left: -1.6vw;
+}
+.eye1 {
+   height: 3vw;
+  width: 2.4vw;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 48%;
+  position: absolute;
+  top: -1vw;
+  left: 3.5vw;
+}
+.eye2 {
+   height: 3vw;
+  width: 2.4vw;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 48%;
+  position: absolute;
+  top: -1vw;
+  left: 6vw;
+}
+
+.irish1 {
+   height: 1vw;
+  width: 1vw;
+  background-color: black;
+  border-radius: 49%;
+  position: absolute;
+  top: 1vw;
+  left: 1vw;
+}
+.irish2 {
+   height: 1vw;
+  width: 1vw;
+  background-color: black;
+  border-radius: 49%;
+  position: absolute;
+  top: 1vw;
+  left: 1vw;
+}
+.nose {
+   height: 2vw;
+  width: 2vw;
+  background-color: red;
+  border-radius: 49%;
+  position: absolute;
+  top: 1vw;
+  left: 5vw;
+  border: 0.5px solid black;
+}
+
+.nose-line {
+  height: 1vw;
+  width: 1px;
+  border-left: 1px solid black;
+  position: absolute;
+  left: 6vw;
+  top: 3vw;
+}
+
+.mouth1 {
+  height: 2vw;
+  width: 4vw;
+  background-color: #d83a47;
+  border-radius: 49%;
+  position: absolute;
+  top: 4vw;
+  left: 1vw;
+  border: 0.5px solid #831918;
+}
+
+.mouth {
+   height: 6vw;
+  width: 6vw;
+  background-color: #bf1a28;
+  border-radius: 49%;
+  position: absolute;
+  top: 4vw;
+  left: 3vw;
+  border: 0.5px solid black;
+}
+.bell {
+   height: 2vw;
+  width: 2vw;
+  background-color: #FFE164;
+  border-radius: 50%;
+  position: absolute;
+  top: 4vw;
+  left: 3.5vw;
+  border: 0.4px solid black;
+}
+.bell_line {
+  height: 1vw;
+  width: 2vw;
+  border-top: 0.5px solid black;
+  position: absolute;
+  top: 1vw;
+  
+}
